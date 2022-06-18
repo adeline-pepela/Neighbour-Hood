@@ -1,1 +1,1 @@
-web: gunicorn hoodwatch.wsgi 
+web: gunicorn myhood.wsgi 
